@@ -1,2 +1,2 @@
-# introducao-java-script
-Atividades propostas no curso de introdução ao java script.
+
+Atividade proposta no curso de introdução ao java script.(Desenvolver um contador)
